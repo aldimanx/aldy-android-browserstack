@@ -1,0 +1,20 @@
+{
+  "server": "hub-cloud.browserstack.com",
+  "username": "aldiansyahnoveri_Rn3y0M",
+  "access_key": "up4RmxnRSYug5A2a9K3s",
+
+  "capabilities": {
+    "project": "First TestNg Android Project",
+    "build": "browserstack-build-1",
+    "name": "first_test",
+    "browserstack.debug": true,
+    "app": "bs://5327587b9a12f95f572a111f4e85d61f256bc1a6"
+  },
+
+  "environments": [
+    {
+      "device": "Samsung Galaxy S20",
+      "os_version": "10.0"
+    }
+  ]
+}
